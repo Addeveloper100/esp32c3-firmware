@@ -1,5 +1,5 @@
 {
 "version": "1.0.2",
 "bin": "https://raw.githubusercontent.com/Addeveloper100/esp32c3-firmware/main/OTA_LOAD_ESP32.ino.bin",
-"sha256": "b611c33ad24d8f11dd0ba3fd45592ff9bb069e1c7a9079bd766f9dc0233cba62"
+"sha256": "8f7bbe47c7e2fe1218aa4909b538d8787d8ba683babc0b58fdff6a74fb8eb06a"
 }
